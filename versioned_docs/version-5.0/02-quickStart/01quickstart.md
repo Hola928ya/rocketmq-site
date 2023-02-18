@@ -215,6 +215,7 @@ $ sh bin/tools.sh org.apache.rocketmq.example.quickstart.Consumer
         }
     }
     ```
+    注：如果程序启动失败报错，可尝试用maven进行编译，下载依赖的jar包。
 
 ## 6. 关闭服务器
 
